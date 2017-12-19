@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/torbenfrie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.einfachtorben.de
+  * I am torbenfrie (https://keybase.io/torbenfrie) on keybase.
+  * I have a public key ASBK_1dfSSuyHKu9YbBlaTzAwZS0tBqd-0GXl78aAcKyhgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b13376d003bca1cee4b2432085bda728cb1b379303fe6ad5196fa592166481d90a",
+      "host": "keybase.io",
+      "kid": "01204aff575f492bb21cabbd61b065693cc0c194b4b41a9dfb419797bf1a01c2b2860a",
+      "uid": "a984401102fed72fc7b2d73b4b98c619",
+      "username": "torbenfrie"
+    },
+    "merkle_root": {
+      "ctime": 1513714692,
+      "hash": "e3d7b1df2aefc696fe1e18dcd64c13dd1fa51ed8e40f562bfcd32706d7f65bd1c5ca96d0a6430f231ecbdf14692f7029f86f65c64d07c608cf60bc5a5cc64556",
+      "hash_meta": "d950b3a1c15d027b5a963a6d44163b0eb230888ec60eac09050d32097bb6f68c",
+      "seqno": 1838177
+    },
+    "service": {
+      "hostname": "www.einfachtorben.de",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.36"
+  },
+  "ctime": 1513714716,
+  "expire_in": 504576000,
+  "prev": "777da70e06fd209755ad770fee73cc7c71c77ace07be8c2808bf8403e8e74613",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSv9XX0krshyrvWGwZWk8wMGUtLQanftBl5e/GgHCsoYKp3BheWxvYWTFA057ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjEzMzc2ZDAwM2JjYTFjZWU0YjI0MzIwODViZGE3MjhjYjFiMzc5MzAzZmU2YWQ1MTk2ZmE1OTIxNjY0ODFkOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGFmZjU3NWY0OTJiYjIxY2FiYmQ2MWIwNjU2OTNjYzBjMTk0YjRiNDFhOWRmYjQxOTc5N2JmMWEwMWMyYjI4NjBhIiwidWlkIjoiYTk4NDQwMTEwMmZlZDcyZmM3YjJkNzNiNGI5OGM2MTkiLCJ1c2VybmFtZSI6InRvcmJlbmZyaWUifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTM3MTQ2OTIsImhhc2giOiJlM2Q3YjFkZjJhZWZjNjk2ZmUxZTE4ZGNkNjRjMTNkZDFmYTUxZWQ4ZTQwZjU2MmJmY2QzMjcwNmQ3ZjY1YmQxYzVjYTk2ZDBhNjQzMGYyMzFlY2JkZjE0NjkyZjcwMjlmODZmNjVjNjRkMDdjNjA4Y2Y2MGJjNWE1Y2M2NDU1NiIsImhhc2hfbWV0YSI6ImQ5NTBiM2ExYzE1ZDAyN2I1YTk2M2E2ZDQ0MTYzYjBlYjIzMDg4OGVjNjBlYWMwOTA1MGQzMjA5N2JiNmY2OGMiLCJzZXFubyI6MTgzODE3N30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuZWluZmFjaHRvcmJlbi5kZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzYifSwiY3RpbWUiOjE1MTM3MTQ3MTYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNzc3ZGE3MGUwNmZkMjA5NzU1YWQ3NzBmZWU3M2NjN2M3MWM3N2FjZTA3YmU4YzI4MDhiZjg0MDNlOGU3NDYxMyIsInNlcW5vIjoxNiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBhOixyrZ7OIPuJLfosXK4c9NKzonObXWQs3JEJBLpUkXdLKGD2Xs9SPuFBMPTf0zg5zgxvVPZToJMzh46Gn/wDqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgiy+Td+nCCGYS8t0wH0Nj1mUerF0qfgpG8S2zItpuCyijdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/torbenfrie
+
+==================================================================
