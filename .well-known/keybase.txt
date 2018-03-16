@@ -1,12 +1,11 @@
-==================================================================
-https://keybase.io/torbenfrie
+://keybase.io/torbenfrie
 --------------------------------------------------------------------
 
 I hereby claim:
 
-  * I am an admin of http://www.einfachtorben.de
+  * I am an admin of https://www.einfachtorben.de
   * I am torbenfrie (https://keybase.io/torbenfrie) on keybase.
-  * I have a public key ASBK_1dfSSuyHKu9YbBlaTzAwZS0tBqd-0GXl78aAcKyhgo
+  * I have a public key ASAw_Wc5ZPDVWcvQHAKo0iPWXDhujH6_gP6gohUnlxu6Jwo
 
 To do so, I am signing this object:
 
@@ -15,37 +14,93 @@ To do so, I am signing this object:
     "key": {
       "eldest_kid": "0120b13376d003bca1cee4b2432085bda728cb1b379303fe6ad5196fa592166481d90a",
       "host": "keybase.io",
-      "kid": "01204aff575f492bb21cabbd61b065693cc0c194b4b41a9dfb419797bf1a01c2b2860a",
+      "kid": "012030fd673964f0d559cbd01c02a8d223d65c386e8c7ebf80fea0a21527971bba270a",
       "uid": "a984401102fed72fc7b2d73b4b98c619",
       "username": "torbenfrie"
     },
     "merkle_root": {
-      "ctime": 1513714692,
-      "hash": "e3d7b1df2aefc696fe1e18dcd64c13dd1fa51ed8e40f562bfcd32706d7f65bd1c5ca96d0a6430f231ecbdf14692f7029f86f65c64d07c608cf60bc5a5cc64556",
-      "hash_meta": "d950b3a1c15d027b5a963a6d44163b0eb230888ec60eac09050d32097bb6f68c",
-      "seqno": 1838177
+      "ctime": 1521203072,
+      "hash": "dc0cc07132be7510d5daa81382983304c582b402bb3fec08269f2e6668df747f22b4c88f79b138c7c9c4cca8ae49d9706e0901c1b678fb224ae19a205639d71d",
+      "hash_meta": "4f26dbfce61eeefa0ae40409c2becbb8638b92d4c24059b84a9141e4eae7ad02",
+      "seqno": 2244774
     },
     "service": {
       "hostname": "www.einfachtorben.de",
-      "protocol": "http:"
+      "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.36"
+    "version": "1.0.45"
   },
-  "ctime": 1513714716,
+  "ctime": 1521203153,
   "expire_in": 504576000,
-  "prev": "777da70e06fd209755ad770fee73cc7c71c77ace07be8c2808bf8403e8e74613",
-  "seqno": 16,
+  "prev": "736505c8021067f36b688e8e1fede645a7c22d2174d040765d8ce79aa471e059",
+  "seqno": 23,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSv9XX0krshyrvWGwZWk8wMGUtLQanftBl5e/GgHCsoYKp3BheWxvYWTFA057ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjEzMzc2ZDAwM2JjYTFjZWU0YjI0MzIwODViZGE3MjhjYjFiMzc5MzAzZmU2YWQ1MTk2ZmE1OTIxNjY0ODFkOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNGFmZjU3NWY0OTJiYjIxY2FiYmQ2MWIwNjU2OTNjYzBjMTk0YjRiNDFhOWRmYjQxOTc5N2JmMWEwMWMyYjI4NjBhIiwidWlkIjoiYTk4NDQwMTEwMmZlZDcyZmM3YjJkNzNiNGI5OGM2MTkiLCJ1c2VybmFtZSI6InRvcmJlbmZyaWUifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTM3MTQ2OTIsImhhc2giOiJlM2Q3YjFkZjJhZWZjNjk2ZmUxZTE4ZGNkNjRjMTNkZDFmYTUxZWQ4ZTQwZjU2MmJmY2QzMjcwNmQ3ZjY1YmQxYzVjYTk2ZDBhNjQzMGYyMzFlY2JkZjE0NjkyZjcwMjlmODZmNjVjNjRkMDdjNjA4Y2Y2MGJjNWE1Y2M2NDU1NiIsImhhc2hfbWV0YSI6ImQ5NTBiM2ExYzE1ZDAyN2I1YTk2M2E2ZDQ0MTYzYjBlYjIzMDg4OGVjNjBlYWMwOTA1MGQzMjA5N2JiNmY2OGMiLCJzZXFubyI6MTgzODE3N30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuZWluZmFjaHRvcmJlbi5kZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzYifSwiY3RpbWUiOjE1MTM3MTQ3MTYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNzc3ZGE3MGUwNmZkMjA5NzU1YWQ3NzBmZWU3M2NjN2M3MWM3N2FjZTA3YmU4YzI4MDhiZjg0MDNlOGU3NDYxMyIsInNlcW5vIjoxNiwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBhOixyrZ7OIPuJLfosXK4c9NKzonObXWQs3JEJBLpUkXdLKGD2Xs9SPuFBMPTf0zg5zgxvVPZToJMzh46Gn/wDqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgiy+Td+nCCGYS8t0wH0Nj1mUerF0qfgpG8S2zItpuCyijdGFnzQICp3ZlcnNpb24B
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMP1nOWTw1VnL0BwCqNIj1lw4box+v4D+oKIVJ5cbuicKp3BheWxvYWTFA097ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjEzMzc2ZDAwM2JjYTFjZWU0YjI0MzIwODViZGE3MjhjYjFiMzc5MzAzZmU2YWQ1MTk2ZmE1OTIxNjY0ODFkOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzBmZDY3Mzk2NGYwZDU1OWNiZDAxYzAyYThkMjIzZDY1YzM4NmU4YzdlYmY4MGZlYTBhMjE1Mjc5NzFiYmEyNzBhIiwidWlkIjoiYTk4NDQwMTEwMmZlZDcyZmM3YjJkNzNiNGI5OGM2MTkiLCJ1c2VybmFtZSI6InRvcmJlbmZyaWUifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MjEyMDMwNzIsImhhc2giOiJkYzBjYzA3MTMyYmU3NTEwZDVkYWE4MTM4Mjk4MzMwNGM1ODJiNDAyYmIzZmVjMDgyNjlmMmU2NjY4ZGY3NDdmMjJiNGM4OGY3OWIxMzhjN2M5YzRjY2E4YWU0OWQ5NzA2ZTA5MDFjMWI2NzhmYjIyNGFlMTlhMjA1NjM5ZDcxZCIsImhhc2hfbWV0YSI6IjRmMjZkYmZjZTYxZWVlZmEwYWU0MDQwOWMyYmVjYmI4NjM4YjkyZDRjMjQwNTliODRhOTE0MWU0ZWFlN2FkMDIiLCJzZXFubyI6MjI0NDc3NH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuZWluZmFjaHRvcmJlbi5kZSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIxMjAzMTUzLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjczNjUwNWM4MDIxMDY3ZjM2YjY4OGU4ZTFmZWRlNjQ1YTdjMjJkMjE3NGQwNDA3NjVkOGNlNzlhYTQ3MWUwNTkiLCJzZXFubyI6MjMsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA4nrLbALwiRoH+ZHU2RkFBzmtPcv1Zd94g1coY8Kyu7U06qXRCGvLDgDUG6Iho9NPm7T7SIF/43KHz9vIwcFID6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHOn8qrJVM9daQVGtLXxBo/kqXo+wTaC3hECsS9+pPHuo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/torbenfrie
+
+==================================================================
+
+==================================================================
+https://keybase.io/torbenfrie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.friedel.me
+  * I am torbenfrie (https://keybase.io/torbenfrie) on keybase.
+  * I have a public key ASAw_Wc5ZPDVWcvQHAKo0iPWXDhujH6_gP6gohUnlxu6Jwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b13376d003bca1cee4b2432085bda728cb1b379303fe6ad5196fa592166481d90a",
+      "host": "keybase.io",
+      "kid": "012030fd673964f0d559cbd01c02a8d223d65c386e8c7ebf80fea0a21527971bba270a",
+      "uid": "a984401102fed72fc7b2d73b4b98c619",
+      "username": "torbenfrie"
+    },
+    "merkle_root": {
+      "ctime": 1521203257,
+      "hash": "3c57c96c8fc7a2a544012d6841307ffbaacba9aa1fb3b8bdaf7bbfb64708c71c37f0e2a30a6edcd73b94bfa4ec3e61de0436874b1c98ea44ef1177e0473784a3",
+      "hash_meta": "38d3025152a5f3c327c4d1b87bd2d944ad8999e1d14a1227ec7c731cdc6f2a5b",
+      "seqno": 2244793
+    },
+    "service": {
+      "hostname": "www.friedel.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1521203270,
+  "expire_in": 504576000,
+  "prev": "eb3393512443ccfa5ac06ae35d5d612bf7721b3bbbe77abfbe2aadd3a339e88e",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMP1nOWTw1VnL0BwCqNIj1lw4box+v4D+oKIVJ5cbuicKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjEzMzc2ZDAwM2JjYTFjZWU0YjI0MzIwODViZGE3MjhjYjFiMzc5MzAzZmU2YWQ1MTk2ZmE1OTIxNjY0ODFkOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMzBmZDY3Mzk2NGYwZDU1OWNiZDAxYzAyYThkMjIzZDY1YzM4NmU4YzdlYmY4MGZlYTBhMjE1Mjc5NzFiYmEyNzBhIiwidWlkIjoiYTk4NDQwMTEwMmZlZDcyZmM3YjJkNzNiNGI5OGM2MTkiLCJ1c2VybmFtZSI6InRvcmJlbmZyaWUifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MjEyMDMyNTcsImhhc2giOiIzYzU3Yzk2YzhmYzdhMmE1NDQwMTJkNjg0MTMwN2ZmYmFhY2JhOWFhMWZiM2I4YmRhZjdiYmZiNjQ3MDhjNzFjMzdmMGUyYTMwYTZlZGNkNzNiOTRiZmE0ZWMzZTYxZGUwNDM2ODc0YjFjOThlYTQ0ZWYxMTc3ZTA0NzM3ODRhMyIsImhhc2hfbWV0YSI6IjM4ZDMwMjUxNTJhNWYzYzMyN2M0ZDFiODdiZDJkOTQ0YWQ4OTk5ZTFkMTRhMTIyN2VjN2M3MzFjZGM2ZjJhNWIiLCJzZXFubyI6MjI0NDc5M30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuZnJpZWRlbC5tZSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIxMjAzMjcwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImViMzM5MzUxMjQ0M2NjZmE1YWMwNmFlMzVkNWQ2MTJiZjc3MjFiM2JiYmU3N2FiZmJlMmFhZGQzYTMzOWU4OGUiLCJzZXFubyI6MjYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAdRiF55isQKZcev1hrgLkwbF5aAElgT55633SgY3xtfs5m5squiNH5Gcl4IM07GP2gl+Gn+fUkr2v81mY+feCCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL1COXIsj+PN2PjUz3pEa9+0Z8rdg7xXeX334YvRUYmDo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
