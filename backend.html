@@ -20,8 +20,8 @@
                 .ref("/users/" + userId)
                 .once("value")
                 .then(function (snapshot) {
-                    console.log(snapshot);
-                    if ((snapshot.val == null)) {
+                    console.log(typeof snapshot);
+                    if ((typeof snapshot !== 'undefined')) {
                         window.location.replace("/");
                     }
                     role = snapshot.val().role;
