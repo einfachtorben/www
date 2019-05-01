@@ -23,12 +23,14 @@
                     console.log(typeof snapshot);
                     if ((typeof snapshot !== 'undefined')) {
                         window.location.replace("/");
-                    }
-                    role = snapshot.val().role;
-                    if (role == "Admin") {
-                        //everything fine
+
                     } else {
-                        //window.location.replace("/")
+                        role = snapshot.val().role;
+                        if (role == "Admin") {
+                            //everything fine
+                        } else {
+                            //window.location.replace("/")
+                        }
                     }
                 });
         }
